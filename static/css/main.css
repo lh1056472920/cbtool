@@ -1,0 +1,28 @@
+hr.separate {
+  height: 2px;
+  background-color: #F25A36; }
+
+hr.dotted {
+  border-top: 1px dashed #F2F2F2;
+  background-color: #F2F2F2; }
+
+.btn-more {
+  display: inline-block;
+  text-align: center;
+  line-height: 28px;
+  width: 120px;
+  height: 28px;
+  font-size: 12px;
+  border: #F25A36 solid 1px;
+  margin: 40px 0 50px;
+  color: #F25A36;
+  background-color: transparent;
+  border-radius: 14px;
+  outline: none; }
+
+.el-pagination.is-background .el-pager li:not(.disabled):hover {
+  color: #F25A36 !important; }
+
+.el-pagination.is-background .el-pager li:not(.disabled).active {
+  color: #FFF !important;
+  background-color: #F25A36 !important; }
